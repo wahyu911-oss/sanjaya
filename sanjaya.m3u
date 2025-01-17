@@ -1,0 +1,167 @@
+# LOKAL INDONESIA ===============================
+
+#EXTINF:900,RCTI (R+)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+#EXTINF:28,INDOSIAR (D*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:28,SCTV (D*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ANTV
+https://flv.intechmedia.net/live/ch108.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Indonesia",ID: Trans TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162503
+
+#EXTINF:26,TRANS 7 (D)
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:899,GTV (R+)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
+
+#EXTM3U
+#EXTINF:1174,MNC TV (R+)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg",RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", Net._intec
+https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
+https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="Indonesia",ID: Zee Bioskop
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157584
+
+#EXTINF:28,TV ONE (D*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:899,iNEWS (R+)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://1a-inews.rctiplus.id/inews-sdi.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/14.jpg",Kompas TV
+http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=Kompas_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+
+
+
+#SPORT ============================================
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: SportStars 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/55fe27237a255968a16a4b1073bdfb5f.png" group-title="Indonesia",ID: SportStars 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304861
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="Indonesia",ID: SpoTV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165105
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="Indonesia",ID: SpoTV 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298506
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="ShareExt@Relax",SPOTV 2[astro]
+http://ua-iptv.com:8080/roncalvin2000@yahoo.com/GQGgfvaPND/857417
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", TVRI Sport(ID)	
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="ShareExt@PREMIUM✓SPORTS", RTV Sport	
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierSports.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports",Premier Sports_
+http://31.42.187.37:25461/watchpad13158/1234/4030
+
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports",beIN SPORTS_
+http://31.42.187.37:25461/watchpad13158/1234/18
+
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/BeinSports2.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports",BEIN SPORTS 2_
+http://31.42.187.37:25461/watchpad13158/1234/4096
+
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports",BEIN SPORTS 3_
+http://31.42.187.37:25461/watchpad13158/1234/8956
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="SHAREEXT@India ➾ Sports",SONY SPORTS TEN 1_* 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="SHAREEXT@India ➾ Sports",SONY SPORTS TEN 2_*
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="SHAREEXT@THAILAND ➾ Sports",True Premier Football 2 FHD VIP SPORTS 
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/117330 
+
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",FIGHT SPORTS
+https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
+
+#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",WWE.network
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="ShareExt@Relax", Supersports Premier 4 HD
+http://iptv12k.com:35461/654321/123456/7983
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN ➾  SPORTS", DUBAI RACING 1 HD 
+http://extraott.com:80/live/3969424152/3723991250/112503.m3u8 
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="SHAREEXT@ARABIAN ➾  SPORTS", DUBAI RACING 2 
+http://extraott.com:80/live/3969424152/3723991250/112502.m3u8 
+
+
+#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg", Motorvision+
+http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=wnctpm5uf2j&chname=Motorvision%2B|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+
+
+# ANIMAL ===================================
+#EXTINF:-1 tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/7/3/5/6735_animalplanetnewlogo2018_906859.jpg" group-title="SHAREEXT@ CHANNELS || INDONESIA2",[ID] Animal Planet
+http://iptv12k.com:35461/654321/123456/2064
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="SHAREEXT@ CHANNELS || INDONESIA2",[ID] NatGeo Wild
+http://iptv12k.com:35461/654321/123456/2067
+
+
+
+
+#ISLAMI ===========================================
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",TV9 NUSANTARA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13",RODJA TV
+https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
+
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
+https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
+
+#EXTINF:47,SANGAJI TV
+#EXTVLCOPT:network-caching=1000
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Mekkah Tv_swift
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@CHANNEL | DENS.TV",Madinah Tv_swift
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+
+
+
+
+
+
