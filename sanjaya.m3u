@@ -1,48 +1,48 @@
 # LOKAL INDONESIA ===============================
 
-#EXTINF:900,RCTI (R+)
+#EXTINF:900, group-title="LOKAL", RCTI (R+)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
-#EXTINF:28,INDOSIAR (D*)
+#EXTINF:28, group-title="LOKAL", INDOSIAR (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:network-caching=1000
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:28,SCTV (D*)
+#EXTINF:28, group-title="LOKAL", SCTV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:network-caching=1000
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", ANTV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="LOKAL", ANTV
 https://flv.intechmedia.net/live/ch108.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Indonesia",ID: Trans TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png"  group-title="LOKAL", ID: Trans TV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162503
 
-#EXTINF:26,TRANS 7 (D)
+#EXTINF:26, group-title="LOKAL", TRANS 7 (D)
 #EXTVLCOPT:network-caching=1000
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:899,GTV (R+)
+#EXTINF:899, group-title="LOKAL", GTV (R+)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
 #EXTM3U
-#EXTINF:1174,MNC TV (R+)
+#EXTINF:1174, group-title="LOKAL", MNC TV (R+)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
-#EXTINF:-1 group-title="SHAREEXT@CHANNEL | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg",RTV
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/22.jpg", group-title="LOKAL", RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", Net._intec
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="LOKAL", Net._intec
 https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
+#EXTINF:-1  group-title="LOKAL", tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
 https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="Indonesia",ID: Zee Bioskop
