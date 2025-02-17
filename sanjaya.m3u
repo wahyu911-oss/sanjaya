@@ -23,11 +23,11 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162503
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="SINETRON", GTV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
 
 #EXTINF:-1 tvg-id="" group-title="SINETRON", MNCTV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
+https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
 
 
@@ -96,7 +96,14 @@ https://1a-inews.rctiplus.id/inews-sdi.mpd
 http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=Kompas_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 
+#Channel Anak=======================================
 
+#EXTINF:-1 group-title="Anak" tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg",My Kidz HD
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 tvg-logo="" group-title="Anak", DreamWorks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157610
 
 #SPORT ============================================
 
