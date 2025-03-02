@@ -1,7 +1,8 @@
 # LOKAL INDONESIA ===============================
 
-#EXTINF:-1 tvg-id="" group-title="SINETRON", RCTI
-http://atg100.xyz:80/UL33K17/SYC4T9D/830548
+#EXTINF:-1 tvg-logo="" group-title="SINETRON", RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
 
 #EXTINF:-1 tvg-id="" group-title="SINETRON", SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
